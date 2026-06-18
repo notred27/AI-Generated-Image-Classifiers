@@ -8,6 +8,13 @@ Research code for detecting AI-generated images (AIGC) using novel Color Filter 
 
 ---
 
+
+
+![Real vs AI-generated image](figure.png)
+
+*The framework for generating the features F<sup>1</sup> and F<sup>2</sup> from a source image.*
+
+
 ## Overview
 
 As AI image generation has become increasingly convincing, distinguishing AI-generated content from genuine photographs is an open problem with real implications for misinformation. This paper investigates two complementary detection strategies:
