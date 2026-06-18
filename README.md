@@ -19,6 +19,17 @@ Both strategies are evaluated on a sparse dataset (same subject/size) and a dive
 
 ---
 
+
+## Getting Started
+
+1. Clone the repo
+2. Open MATLAB and set your current folder to the repo root
+3. Update `IMAGE_PATH` in `cfa_demo.m` to desired image
+4. Run `cfa_demo.m`
+
+
+---
+
 ## Results
 
 **CNNs trained on the diverse dataset:**
